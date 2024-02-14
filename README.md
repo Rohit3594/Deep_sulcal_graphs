@@ -1,6 +1,6 @@
-# Deep_sulcal_graphs
+# DEEP LEARNING FOR SULCAL GRAPHS
 
-This repository contains the source code and data corresponding the ISBI 2024 article GEOMETRIC DEEP LEARNING FOR SULCAL GRAPHS:
+This repository contains the source code and data corresponding the ISBI 2024 article 'GEOMETRIC DEEP LEARNING FOR SULCAL GRAPHS':
 
 
 ### Dependencies:
